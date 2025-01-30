@@ -1,6 +1,6 @@
 ![](./readmeImg/banner.png)
 
-# Shaif's Cuisine 👨‍🍳
+# Tanuja's Cuisine 👨‍🍳
 
 **Live preview: [click me](http://Tanuja-s-cuisine.netlify.app)**
 
